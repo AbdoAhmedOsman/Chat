@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457547584439",
+    "project_id": "chat-28c33",
+    "storage_bucket": "chat-28c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457547584439:android:3567aa7c46ffce68b7ce32",
+        "android_client_info": {
+          "package_name": "com.abdo2001.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457547584439-rdn8tqfdo0m5i58ovmlj1hhqjamqvmtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6hXwr834uSIIlT3pFSeqdl6ZqF601yfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457547584439-rdn8tqfdo0m5i58ovmlj1hhqjamqvmtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
